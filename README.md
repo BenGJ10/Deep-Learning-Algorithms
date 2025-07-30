@@ -10,6 +10,7 @@ A comprehensive guide to building neural networks, including coding neurons and 
 
 **Implemented features include**:
 1. Coding individual neurons and layers
+2. Using Numpy to Code Neurons and Layers
 
 
 ### **2. Single Perceptron**: <br>
