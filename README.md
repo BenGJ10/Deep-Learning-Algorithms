@@ -11,6 +11,8 @@ A comprehensive guide to building neural networks, including coding neurons and 
 **Implemented features include**:
 1. Coding individual neurons and layers
 2. Using Numpy to Code Neurons and Layers
+3. Implementing Dense Layers
+4. Implementing Activation Functions(ReLu)
 
 
 ### **2. Single Perceptron**: <br>
