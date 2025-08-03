@@ -12,8 +12,8 @@ A comprehensive guide to building neural networks, including coding neurons and 
 1. Coding individual neurons and layers
 2. Using Numpy to Code Neurons and Layers
 3. Implementing Dense Layers
-4. Implementing Activation Functions(ReLu)
-
+4. Implementing Activation Functions(ReLu, Softmax)
+5. Implementing Loss Functions (Categorical Cross Entropy)
 
 ### **2. Single Perceptron**: <br>
  A basic implementation of a single-layer neural network that can perform binary classification tasks.
