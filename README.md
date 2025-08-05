@@ -14,6 +14,7 @@ A comprehensive guide to building neural networks, including coding neurons and 
 3. Implementing Dense Layers
 4. Implementing Activation Functions(ReLu, Softmax)
 5. Implementing Loss Functions (Categorical Cross Entropy)
+6. Introducing Optimization for weights and biases selection
 
 ### **2. Single Perceptron**: <br>
  A basic implementation of a single-layer neural network that can perform binary classification tasks.
